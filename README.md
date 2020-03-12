@@ -12,3 +12,4 @@ Coursework in Melbourne University, include all assignments and personal solutio
 * COMP90072 The Art of Scientific Computation
 * COMP90016 Computational Genomics
 * GEOM20007 Spatial Visulization
+* COMP90042 Natural Language Processing
